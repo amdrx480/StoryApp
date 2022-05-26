@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau belajar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicodingin aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2022 Dicoding x Irwan Project</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+
+    <string name="empty_data">Sayangnya, tidak ada foto saat ini</string>
+    <string name="photo_name">Foto Pengguna</string>
+    <string name="description">Di sini Deskripsi Foto</string>
+    <string name="Create_at">Created A Time</string>
+    <string name="create_add">Created A Time %1$s,</string>
+
+    <string name="invalid_password">kata sandi harus minimal 6 karakter</string>
+    <string name="must_filled">Kolom Ini Harus diisi</string>
+    <string name="invalid_email">Bukan email yang valid</string>
+
+    <string name="information">Yeah!</string>
+    <string name="register_success">Akunnya sudah jadi nih. Yuk, login dan belajar coding.</string>
+    <string name="continue_">Lanjut</string>
+
+    <string name="information_Failed">Yah!</string>
+    <string name="register_failed">Akunnya gagal dibuat, silahkan ulangi registrasi</string>
+    <string name="continue_Failed">Continue</string>
+
+    <string name="login_in_failed">Masuk Gagal, Coba Lagi</string>
+    <string name="login_in_success">Login Berhasil</string>
+
+    <string name="no_story">No Story</string>
+    <string name="created_add">Created A Time %1$s,</string>
+    <string name="invalid_permission">Tidak bisa mendapatkan izin</string>
+    <string name="upload_success">berhasil mengunggah</string>
+    <string name="upload_failed">Gagal mengunggah</string>
+    <string name="no_attach_file">Tidak ada file terlampir, harap lampirkan gambar terlebih dahulu</string>
+    <string name="new_story">Story Baru</string>
+    <string name="gallery">Galeri</string>
+    <string name="image_preview">Pratinjau gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Mengunggah</string>
+    <string name="capture_image">Ambil gambar</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="log_out_success">Keluar Berhasil</string>
+    <string name="change_language">Ganti BAHASA</string>
+    <string name="image_story">Gambar story</string>
+    <string name="appwidget_text">Story App BANNER</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="detail_story">Detail Story</string>
+    <string name="list_story">Story App</string>
+    <string name="error_occurred">Beberapa Kesalahan Terjadi</string>
+    <string name="title_activity_story_maps">StoryMapsActivity</string>
+    <string name="enable_gps_permission">Mohon izinkan layanan lokasi Anda</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="information_error">Oops! Something Went Wrong Error</string>
+    <string name="location_permission">Share Location Permission</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <string name="title_menu_1">Kurikulum Standar Industri Global</string>
+    <string name="title_menu_2">Belajar Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Code Review dari Developer Expert</string>
+    <string name="title_menu_4">Alumni Terpercaya di Berbagai Perusahaan</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bersama perusahaan dan pemilik teknologi dunia sesuai kebutuhan industri terkini.</string>
+    <string name="desc_menu_2">Belajar kapan pun, di mana pun, secara mandiri. Bebas memilih kelas sesuai minat belajar. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi skill Anda melalui 1-on-1 Professional Code Review yang diberikan langsung oleh Developer Expert.</string>
+    <string name="desc_menu_4">Sertifikat yang membuktikan pengetahuan fundamental beserta keterampilan nyata yang diinginkan perusahaan global.</string>
+    <string name="learn_now">Belajar Sekarang</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just Dicodingin it!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first ya</string>
+    <string name="title_login_page">Ready to upgrade skills?</string>
+    <string name="name">Name</string>
+    <string name="copyright">© 2022 Dicoding x Irwan Project</string>
+    <string name="message_main_page">Happy Learning at Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+
+    <string name="empty_data">Unfortunately, there\'s no photo right now</string>
+    <string name="photo_name">Photo Author</string>
+    <string name="description">Photo Description here</string>
+    <string name="Create_at">Created A Time</string>
+    <string name="create_add">Created At %1$s,</string>
+
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="must_filled">Must be filled</string>
+    <string name="invalid_email">Not a valid email</string>
+
+    <string name="information">Yeah!</string>
+    <string name="register_success">The account is ready. Come on, login and learn coding.</string>
+    <string name="continue_">Continue</string>
+
+    <string name="information_Failed">Yah!</string>
+    <string name="register_failed">The account failed, please re-register</string>
+    <string name="continue_Failed">Continue</string>
+
+    <string name="login_in_failed">Login In Failed</string>
+    <string name="login_in_success">Login In Success</string>
+
+    <string name="no_story">No Story</string>
+    <string name="created_add">Created at %1$s,</string>
+    <string name="invalid_permission">Can\'t get permission</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="no_attach_file">No file attached, please attach image first</string>
+    <string name="new_story">New Story</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_preview">Image preview</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="capture_image">Capture image</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="log_out_success">Log Out Success</string>
+    <string name="change_language">Change language</string>
+    <string name="image_story">image story</string>
+    <string name="appwidget_text">Story App BANNER</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Data</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="detail_story">Detail Story</string>
+    <string name="list_story">Story App</string>
+    <string name="error_occurred">Some Error Occurred</string>
+    <string name="title_activity_story_maps">StoryMapsActivity</string>
+    <string name="enable_gps_permission">Please allowed your location services</string>
+    <string name="retry">Retry</string>
+    <string name="information_error">Oops! Something Went Wrong Error</string>
+    <string name="location_permission">Share Location Permission</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <string name="title_menu_1">Kurikulum Standar Industri Global</string>
+    <string name="title_menu_2">Belajar Fleksibel Sesuai Jadwal Anda</string>
+    <string name="title_menu_3">Code Review dari Developer Expert</string>
+    <string name="title_menu_4">Alumni Terpercaya di Berbagai Perusahaan</string>
+    <string name="desc_menu_1">Kurikulum dikembangkan bersama perusahaan dan pemilik teknologi dunia sesuai kebutuhan industri terkini.</string>
+    <string name="desc_menu_2">Belajar kapan pun, di mana pun, secara mandiri. Bebas memilih kelas sesuai minat belajar. Akses seumur hidup ke kelas dan forum diskusi setelah lulus.</string>
+    <string name="desc_menu_3">Validasi skill Anda melalui 1-on-1 Professional Code Review yang diberikan langsung oleh Developer Expert.</string>
+    <string name="desc_menu_4">Sertifikat yang membuktikan pengetahuan fundamental beserta keterampilan nyata yang diinginkan perusahaan global.</string>
+    <string name="learn_now">Belajar Sekarang</string>
+
+</resources>
